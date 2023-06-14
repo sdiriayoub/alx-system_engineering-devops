@@ -1,2 +1,2 @@
 #!/bin/bash
-expoert PATH"$PATH. /action"
+expoert PATH="$PATH. /action"
